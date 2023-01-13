@@ -1,38 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://enoch9618.github.io/post/</loc>
-    <lastmod>2022-02-11T19:58:35+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://enoch9618.github.io/post/%E5%88%8A%E7%89%A9%E4%BA%8B%E5%A5%89/</loc>
-    <lastmod>2022-02-11T19:58:35+08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-01-13T21:07:21+08:00</lastmod>
+  </url><url>
+    <loc>https://enoch9618.github.io/post/%E4%BB%80%E4%B9%88%E4%B9%9F%E4%B8%8D%E8%83%BD%E5%81%9A/</loc>
+    <lastmod>2023-01-13T21:07:21+08:00</lastmod>
+  </url><url>
     <loc>https://enoch9618.github.io/</loc>
-    <lastmod>2022-02-11T19:58:35+08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-01-13T21:07:21+08:00</lastmod>
+  </url><url>
     <loc>https://enoch9618.github.io/post/%E6%82%A3%E9%9A%BE%E8%A7%81%E7%9C%9F%E6%83%85/</loc>
     <lastmod>2021-11-09T21:49:25+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://enoch9618.github.io/post/blog/</loc>
     <lastmod>2021-10-28T14:51:17+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://enoch9618.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://enoch9618.github.io/tags/</loc>
   </url>
-  
 </urlset>
