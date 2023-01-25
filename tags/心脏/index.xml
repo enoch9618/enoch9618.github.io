@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>心脏 on 古君 - Enoch</title>
+    <link>https://enoch9618.github.io/tags/%E5%BF%83%E8%84%8F/</link>
+    <description>Recent content in 心脏 on 古君 - Enoch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jan 2023 14:13:35 +0800</lastBuildDate><atom:link href="https://enoch9618.github.io/tags/%E5%BF%83%E8%84%8F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>心脏MR扫描经验总结</title>
+      <link>https://enoch9618.github.io/post/cmr/cmr/</link>
+      <pubDate>Tue, 17 Jan 2023 14:13:35 +0800</pubDate>
+      
+      <guid>https://enoch9618.github.io/post/cmr/cmr/</guid>
+      <description>心脏MR扫描经验总结 序列名称解释  平扫
+ 3-Pl loc Fiesta 三平面定位 BH Cal Scan 闭气校准 Sag T2 SSFSE Loc 标准矢状位 T2 SSFSE FS BB 标准横断位 Loc 2D FIESTA 2ch 两腔心 Loc 2D FIESTA 4ch 四腔心 Loc 2D FIESTA SA 短轴 BH 2CH FIESTA CINE 两腔心电影 BH 4CH FIESTA CINE 四腔心电影 BH SA FIESTA CINE 短轴电影 BH LVOT FIESTA CINE 左室流出道电影 Triple IR SA 6 slice 三反转短轴 Double IR SA 5 slice 双反转短轴 Double IR 2CH 双反转两腔心 Double IR 4CH 双反转四腔心    增强</description>
+    </item>
+    
+  </channel>
+</rss>

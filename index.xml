@@ -1,12 +1,351 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>古君 - Enoch Hu</title>
+        <title>古君 - Enoch</title>
         <link>https://enoch9618.github.io/</link>
-        <description>Recent content on 古君 - Enoch Hu</description>
+        <description>Recent content on 古君 - Enoch</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 15 Jan 2023 18:44:43 +0800</lastBuildDate><atom:link href="https://enoch9618.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 25 Jan 2023 20:21:18 +0800</lastBuildDate><atom:link href="https://enoch9618.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>没有心如死灰</title>
+        <link>https://enoch9618.github.io/post/230125/</link>
+        <pubDate>Wed, 25 Jan 2023 20:21:18 +0800</pubDate>
+        
+        <guid>https://enoch9618.github.io/post/230125/</guid>
+        <description>&lt;p&gt;没有心如死灰，但是又无比地沮丧。
+我很难描述这种沮丧的感受，提不起精神，有怨念，想啜泣，呼吸不是很顺畅。
+我只能用这些很直白的词来形容自己的状态了。
+我本来还想着，如果能全程记录，从双方父母见面到婚礼完成的整个流程的，但是目前这样的状态，我根本写不出什么。&lt;/p&gt;
+&lt;p&gt;我不想说离开，但我感觉她在千方百计地在阻止和拒绝，我心里很难受。或许是我的错觉吧，我希望是我的错觉，我觉得她在一拖再拖，一开始用工作来拒绝，后来又说用不想生小孩来拒绝，又说婚姻不幸福，又说没安全感，又说要攒钱，我都尽我的力量在消除她的后顾之忧。&lt;/p&gt;
+&lt;p&gt;可是到如今，她还是没有一点积极和主动，反而在各个方面都退缩。“不要定初五的酒席”“初五没人来”“要不初九”“初九没来就算了” 连双方父母见个面都能推掉。&lt;/p&gt;
+&lt;p&gt;我真的很难受，我不知道为什么我要结个婚会遇到这么多的艰难。&lt;/p&gt;
+&lt;p&gt;我内心真的很苦了。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>心脏MR扫描经验总结</title>
+        <link>https://enoch9618.github.io/post/cmr/cmr/</link>
+        <pubDate>Tue, 17 Jan 2023 14:13:35 +0800</pubDate>
+        
+        <guid>https://enoch9618.github.io/post/cmr/cmr/</guid>
+        <description>&lt;h1 id=&#34;心脏mr扫描经验总结&#34;&gt;心脏MR扫描经验总结&lt;/h1&gt;
+&lt;h2 id=&#34;序列名称解释&#34;&gt;序列名称解释&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;平扫&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3-Pl loc Fiesta 三平面定位&lt;/li&gt;
+&lt;li&gt;BH Cal Scan 闭气校准&lt;/li&gt;
+&lt;li&gt;Sag T2 SSFSE Loc 标准矢状位&lt;/li&gt;
+&lt;li&gt;T2 SSFSE FS BB 标准横断位&lt;/li&gt;
+&lt;li&gt;Loc 2D FIESTA 2ch 两腔心&lt;/li&gt;
+&lt;li&gt;Loc 2D FIESTA 4ch 四腔心&lt;/li&gt;
+&lt;li&gt;Loc 2D FIESTA SA 短轴&lt;/li&gt;
+&lt;li&gt;BH 2CH FIESTA CINE 两腔心电影&lt;/li&gt;
+&lt;li&gt;BH 4CH FIESTA CINE 四腔心电影&lt;/li&gt;
+&lt;li&gt;BH SA FIESTA CINE 短轴电影&lt;/li&gt;
+&lt;li&gt;BH LVOT FIESTA CINE 左室流出道电影&lt;/li&gt;
+&lt;li&gt;Triple IR SA 6 slice 三反转短轴&lt;/li&gt;
+&lt;li&gt;Double IR SA 5 slice 双反转短轴&lt;/li&gt;
+&lt;li&gt;Double IR 2CH 双反转两腔心&lt;/li&gt;
+&lt;li&gt;Double IR 4CH 双反转四腔心&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;增强&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cine IR 2RR SA 1 Slice&lt;/li&gt;
+&lt;li&gt;MDE 2RR SA BH&lt;/li&gt;
+&lt;li&gt;PS MDE 2CH BH&lt;/li&gt;
+&lt;li&gt;PS MDE 4CH BH&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;NOTE :&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BH( Breathe Hold )的序列需要预扫，憋气。&lt;/li&gt;
+&lt;li&gt;Loc( Location )作为定位用，一般扫假两腔心、假四腔心等&lt;/li&gt;
+&lt;li&gt;CINE 序列为电影序列&lt;/li&gt;
+&lt;li&gt;FIESTA是亮血序列&lt;/li&gt;
+&lt;li&gt;2CH是二腔心，4CH是四腔心，SA是短轴&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;检查前准备及注意事项&#34;&gt;检查前准备及注意事项&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;憋气很重要&lt;/strong&gt;，要做好训练工作。为节省时间，可叫病人直接屏气。配合不佳患者可叫家属捏鼻子。&lt;/li&gt;
+&lt;li&gt;扫电影序列都要加匀场。（其他序列也尽量都加匀场。）在能盖住心脏的前提下，匀场越小越好。&lt;/li&gt;
+&lt;li&gt;绑好呼吸门控，夹好指脉，可以让病人用手带着线，以免指脉脱落。勾好相应的门控。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://enoch9618.github.io/post/CMR/%e6%8c%87%e8%84%89.jpg&#34; &gt;
+		&lt;img src=&#34;https://enoch9618.github.io/post/CMR/%e6%8c%87%e8%84%89.jpg&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;指脉&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;指脉&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://enoch9618.github.io/post/CMR/%e9%97%a8%e6%8e%a7.png&#34; &gt;
+		&lt;img src=&#34;https://enoch9618.github.io/post/CMR/%e9%97%a8%e6%8e%a7.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;门控开关&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;门控开关&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://enoch9618.github.io/post/CMR/%e5%91%bc%e5%90%b8%e9%97%a8%e6%8e%a7%e5%92%8c%e5%bf%83%e7%94%b5%e9%97%a8%e6%8e%a7.png&#34; &gt;
+		&lt;img src=&#34;https://enoch9618.github.io/post/CMR/%e5%91%bc%e5%90%b8%e9%97%a8%e6%8e%a7%e5%92%8c%e5%bf%83%e7%94%b5%e9%97%a8%e6%8e%a7.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;呼吸门控和心电门控.png&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;呼吸门控和心电门控.png&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;病人舒适性：由于检查时间较长，为防止病人躺久了待不住会动，检查前可让病人调整到舒适的姿势；双手上举可以垫个东西。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;检查&#34;&gt;检查&lt;/h2&gt;
+&lt;h3 id=&#34;平扫&#34;&gt;平扫&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;扫三平面定位像&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;扫校准（预扫憋气）&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;扫标准矢状位&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;包住整个心脏，这个序列不需要憋气。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://enoch9618.github.io/post/CMR/%e6%89%abSag.png&#34; &gt;
+		&lt;img src=&#34;https://enoch9618.github.io/post/CMR/%e6%89%abSag.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;扫矢状位1&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;扫矢状位1&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://enoch9618.github.io/post/CMR/%e6%89%ab-%e7%9f%a2%e7%8a%b6%e4%bd%8d.png&#34; &gt;
+		&lt;img src=&#34;https://enoch9618.github.io/post/CMR/%e6%89%ab-%e7%9f%a2%e7%8a%b6%e4%bd%8d.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;扫矢状位&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;扫矢状位&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;扫标准横断位&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;包住整个心脏，这个序列不需要憋气。&lt;/p&gt;
+&lt;p&gt;按夏国金的要求，横断位不压脂。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://enoch9618.github.io/post/CMR/%e5%85%b3%e9%97%ad%e5%8e%8b%e8%84%82.png&#34; &gt;
+		&lt;img src=&#34;https://enoch9618.github.io/post/CMR/%e5%85%b3%e9%97%ad%e5%8e%8b%e8%84%82.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;未找到图片：/post/CMR/关闭压脂.png&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;未找到图片：/post/CMR/关闭压脂.png&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;扫两腔心&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;定位&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;在横断位上定位，&lt;strong&gt;二尖瓣和心尖的连线&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://enoch9618.github.io/post/CMR/%e4%ba%8c%e8%85%94%e5%bf%83%e5%ae%9a%e4%bd%8d.png&#34; &gt;
+		&lt;img src=&#34;https://enoch9618.github.io/post/CMR/%e4%ba%8c%e8%85%94%e5%bf%83%e5%ae%9a%e4%bd%8d.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;在横断位上定二腔心Loc&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;在横断位上定二腔心Loc&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;出图&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://enoch9618.github.io/post/CMR/%e4%ba%8c%e8%85%94%e5%bf%83%e5%87%ba%e5%9b%be.png&#34; &gt;
+		&lt;img src=&#34;https://enoch9618.github.io/post/CMR/%e4%ba%8c%e8%85%94%e5%bf%83%e5%87%ba%e5%9b%be.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;二腔心Loc&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;二腔心Loc&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;&lt;strong&gt;扫四腔心&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;定位&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在两腔心上定位，&lt;strong&gt;心尖和二尖瓣中点的连线。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://enoch9618.github.io/post/CMR/%e5%9b%9b%e8%85%94%e5%bf%83%e5%ae%9a%e4%bd%8d.png&#34; &gt;
+		&lt;img src=&#34;https://enoch9618.github.io/post/CMR/%e5%9b%9b%e8%85%94%e5%bf%83%e5%ae%9a%e4%bd%8d.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;在两腔心Loc上定位四腔心Loc&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;在两腔心Loc上定位四腔心Loc&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;出图&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://enoch9618.github.io/post/CMR/%e5%9b%9b%e8%85%94%e5%bf%83%e5%87%ba%e5%9b%be.png&#34; &gt;
+		&lt;img src=&#34;https://enoch9618.github.io/post/CMR/%e5%9b%9b%e8%85%94%e5%bf%83%e5%87%ba%e5%9b%be.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;四腔心Loc&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;四腔心Loc&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;&lt;strong&gt;扫短轴&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;定位&lt;/em&gt;
+在二腔心Loc上，垂直于心尖和二尖瓣中点的连线；在四腔心上，也垂直于心尖和二尖瓣中点的连线。包完整个心脏。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://enoch9618.github.io/post/CMR/SA_over_2CH_Loc.png&#34; &gt;
+		&lt;img src=&#34;https://enoch9618.github.io/post/CMR/SA_over_2CH_Loc.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;未找到图片：/post/CMR/SA_over_2CH_Loc.png &#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;未找到图片：/post/CMR/SA_over_2CH_Loc.png&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://enoch9618.github.io/post/CMR/SA_over_4CH_Loc.png&#34; &gt;
+		&lt;img src=&#34;https://enoch9618.github.io/post/CMR/SA_over_4CH_Loc.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;在四腔心定位上定位短轴&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;在四腔心定位上定位短轴&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;&lt;strong&gt;扫两腔心电影&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;在四腔心和短轴位上定位——&lt;/p&gt;
+&lt;p&gt;在四腔心上：定位和扫二腔心一样（心尖和二尖瓣中点连线）；&lt;/p&gt;
+&lt;p&gt;在短轴位上：穿左心室最长轴&lt;/p&gt;
+&lt;ol start=&#34;9&#34;&gt;
+&lt;li&gt;&lt;strong&gt;扫四腔心电影&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;在二腔心和短轴位上定位&lt;/p&gt;
+&lt;p&gt;在二腔心：定位和四腔心一样（心尖和二尖瓣中点连线）；&lt;/p&gt;
+&lt;p&gt;在短轴位上：穿右心膈角和左心室中点的连线。&lt;/p&gt;
+&lt;ol start=&#34;10&#34;&gt;
+&lt;li&gt;&lt;strong&gt;扫短轴电影&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;定位和扫短轴一样，在二腔心和四腔心上定位。&lt;/p&gt;
+&lt;p&gt;这个序列需要填写心率。&lt;/p&gt;
+&lt;p&gt;这个序列是最花时间的，&lt;/p&gt;
+&lt;ol start=&#34;11&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;扫左室流出道电影&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;扫三反转短轴位&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;扫双反转短轴位&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;扫双反转两腔心&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;扫双反转四腔心&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;增强&#34;&gt;增强&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;找最黑心肌&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;延时强化（短轴位）&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;延时强化（两腔心）&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;延时强化（四腔心）&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
         <title>母亲VS团契，谁对学生影响更重要？</title>
         <link>https://enoch9618.github.io/post/%E6%AF%8D%E4%BA%B2vs%E5%9B%A2%E5%A5%91/</link>
         <pubDate>Sun, 15 Jan 2023 18:44:43 +0800</pubDate>
@@ -25,10 +364,10 @@
         </item>
         <item>
         <title>什么也不能做</title>
-        <link>https://enoch9618.github.io/post/%E4%BB%80%E4%B9%88%E4%B9%9F%E4%B8%8D%E8%83%BD%E5%81%9A/</link>
+        <link>https://enoch9618.github.io/post/words-from-my-helper/%E4%BB%80%E4%B9%88%E4%B9%9F%E4%B8%8D%E8%83%BD%E5%81%9A/</link>
         <pubDate>Sun, 04 Dec 2022 21:07:21 +0800</pubDate>
         
-        <guid>https://enoch9618.github.io/post/%E4%BB%80%E4%B9%88%E4%B9%9F%E4%B8%8D%E8%83%BD%E5%81%9A/</guid>
+        <guid>https://enoch9618.github.io/post/words-from-my-helper/%E4%BB%80%E4%B9%88%E4%B9%9F%E4%B8%8D%E8%83%BD%E5%81%9A/</guid>
         <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;【约9:33】这人若不是从　神来的，什么也不能作。
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;心里有很多想倾诉的话，但是说要写，却又写不出来了。&lt;br&gt;
 以为这周是线下，所以没有预备信息，可是又恢复线下了，于是在听信息。 我一直觉得，这是对站讲台之人的羞辱；可若是要我准备要我讲，我却又讲不出来。&lt;/p&gt;
