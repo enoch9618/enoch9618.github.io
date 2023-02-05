@@ -6,7 +6,23 @@
         <description>Recent content on Enoch</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 29 Jan 2023 23:23:15 +0800</lastBuildDate><atom:link href="https://enoch9618.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 05 Feb 2023 10:46:01 +0800</lastBuildDate><atom:link href="https://enoch9618.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>升级系统</title>
+        <link>https://enoch9618.github.io/post/230204/</link>
+        <pubDate>Sun, 05 Feb 2023 10:46:01 +0800</pubDate>
+        
+        <guid>https://enoch9618.github.io/post/230204/</guid>
+        <description>&lt;h2 id=&#34;升级&#34;&gt;升级&lt;/h2&gt;
+&lt;p&gt;之前一直在用Big Sur，看到现在都更新到13 Ventura 了，我就想更新一下，但更新的过程却充满曲折。&lt;/p&gt;
+&lt;p&gt;用系统自带的更新是升级成功的，但因为我原来的版本EFI文件太旧了，有些驱动都迭代了好几代，于是重新跟着教程配置EFI，替换后，发现不能开启HiDPi ，不能正常关机，以为是EFI的问题，又重新配置了好几遍，网上也找了很多教程，都没有解决。&lt;/p&gt;
+&lt;p&gt;一气之下，把EFI删了，发现还能进系统。这才意识到默认的引导在文件硬盘里了。挂载ST2000后，了EFI，就解决了。&lt;/p&gt;
+&lt;p&gt;黑苹果确实就是要折腾。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;一点小插曲&#34;&gt;一点小插曲&lt;/h2&gt;
+&lt;p&gt;昨晚一直失败，这时振丽打视频来了，我心里正烦躁着，态度语气就不好，让她不高兴了。可见自己的情绪管理还是不行，是自己没做好的地方，需要改进。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>取名字</title>
         <link>https://enoch9618.github.io/post/name/</link>
         <pubDate>Sun, 29 Jan 2023 23:23:15 +0800</pubDate>
